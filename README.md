@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @renatodean
 - 👀 I’m interested in all about Frontend.
-- 🌱 I’m currently learning Solidity.
 - 📫 How to reach me renato_dean@hotmail.com
 
 <!---
